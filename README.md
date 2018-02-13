@@ -1,3 +1,3 @@
 # mpv
 
-MPV player configuration files.
+MPV media player configuration files.
